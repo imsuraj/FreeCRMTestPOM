@@ -1,0 +1,9 @@
+[INFO ] 2020-04-27 21:32:08.268 [main] TestBase - ****************************** starting test case *****************************************
+[INFO ] 2020-04-27 21:32:08.270 [main] TestBase - ****************************** LoginTest *****************************************
+[TRACE] 2020-04-27 21:32:08.270 [main] TestBase - This is a trace message
+[INFO ] 2020-04-27 21:32:08.271 [main] TestBase - This is information message.
+[ERROR] 2020-04-27 21:32:08.271 [main] TestBase - This is an error message.
+[WARN ] 2020-04-27 21:32:08.271 [main] TestBase - This is a warning message.
+[FATAL] 2020-04-27 21:32:08.271 [main] TestBase - This is a fatal message.
+[INFO ] 2020-04-27 21:32:08.271 [main] TestBase - ****************************** ending test case *****************************************
+[INFO ] 2020-04-27 21:32:08.271 [main] TestBase - ****************************** LoginTest *****************************************

@@ -11,6 +11,8 @@ import java.io.InputStream;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
@@ -31,6 +33,8 @@ public class TestBase {
 	static String projectPath = System.getProperty("user.dir");
 	public static EventFiringWebDriver e_driver;
 	public static WebEventListener eventListener;
+	public static Logger log = LogManager.getLogger(TestBase.class);
+	
 
 	public TestBase() {
 

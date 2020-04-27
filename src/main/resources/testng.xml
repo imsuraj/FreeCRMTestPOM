@@ -5,12 +5,16 @@
 	<listeners>
 		<listener
 			class-name="com.crm.qa.ExtentReportListener.ExtentReporterNG"></listener>
+		<listener class-name="com.crm.qa.util.TestTransformer"></listener>
 	</listeners>
 	<test name="Free CRM App Test">
 		<classes>
-			<class name="com.crm.qa.testcases.LoginPageTest" />
-		<!-- 	<class name="com.crm.qa.testcases.HomePageTest" />
+
+			<!-- <class name="com.crm.qa.testcases.LoginPageTest" />
+			<class name="com.crm.qa.testcases.HomePageTest" />
 			<class name="com.crm.qa.testcases.ContactsPageTest" /> -->
+
+			<class name="com.crm.qa.testcases.ReTryTest"></class>
 
 
 		</classes>
