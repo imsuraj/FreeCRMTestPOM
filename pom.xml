@@ -14,12 +14,12 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<maven.compiler.source>1.6</maven.compiler.source>
-		<maven.compiler.target>1.6</maven.compiler.target>
+	<!-- 	<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>1.8</maven.compiler.target> -->
 	</properties>
 
 
-	<!-- <build>
+	<build>
 		<plugins>
 
 			<plugin>
@@ -39,13 +39,13 @@
 				<version>3.0.0-M4</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>${testngFile}</suiteXmlFile>
-						<suiteXmlFile>/Users/suraj/git/CrmTest/FreeCRMTest/src/main/resources/testng.xml</suiteXmlFile>
+						<!-- <suiteXmlFile>${testngFile}</suiteXmlFile> -->
+						<suiteXmlFile>/Users/suraj/JavaProjects/FreeCRMTest/src/main/resources/testng.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
 		</plugins>
-	</build> -->
+	</build>
 
 
 
