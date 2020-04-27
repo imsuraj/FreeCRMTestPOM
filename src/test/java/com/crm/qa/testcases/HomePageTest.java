@@ -45,28 +45,28 @@ public class HomePageTest extends TestBase {
 		Assert.assertEquals(title, "CRMPRO","Homepage title not mactched.");
 	}
 
-	@Test(priority = 2)
-	public void verifyUserNameTest() {
-		//boolean flag = homePage.verifyCorrectUserName();
-		testUtil.switchToFrame();
-		Assert.assertTrue(homePage.verifyCorrectUserName());
-	}
+//	@Test(priority = 2)
+//	public void verifyUserNameTest() {
+//		//boolean flag = homePage.verifyCorrectUserName();
+//		testUtil.switchToFrame();
+//		Assert.assertTrue(homePage.verifyCorrectUserName());
+//	}
 
-	@Test(priority = 3)
-	public void verifyContactsLinkTest() {
-		testUtil.switchToFrame();
-		contactsPage = homePage.clickOnContactsLink();
-	}
-
-	public void verifyDealsLinkTest() {
-		testUtil.switchToFrame();
-		dealsPage = homePage.clickOnDealsLink();
-	}
-
-	public void verifyTasksLinkTest() {
-		testUtil.switchToFrame();
-		tasksPage = homePage.clickOnTasksLink();
-	}
+//	@Test(priority = 3)
+//	public void verifyContactsLinkTest() {
+//		testUtil.switchToFrame();
+//		contactsPage = homePage.clickOnContactsLink();
+//	}
+//
+//	public void verifyDealsLinkTest() {
+//		testUtil.switchToFrame();
+//		dealsPage = homePage.clickOnDealsLink();
+//	}
+//
+//	public void verifyTasksLinkTest() {
+//		testUtil.switchToFrame();
+//		tasksPage = homePage.clickOnTasksLink();
+//	}
 
 	@AfterMethod
 	public void tearDown() {
