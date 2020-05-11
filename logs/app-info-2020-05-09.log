@@ -1,0 +1,44 @@
+[INFO ] 2020-04-27 21:36:19.269 [main] TestBase - ****************************** starting test case *****************************************
+[INFO ] 2020-04-27 21:36:19.271 [main] TestBase - ****************************** LoginTest *****************************************
+[INFO ] 2020-04-27 21:36:19.272 [main] TestBase - This is information message.
+[ERROR] 2020-04-27 21:36:19.272 [main] TestBase - This is an error message.
+[WARN ] 2020-04-27 21:36:19.272 [main] TestBase - This is a warning message.
+[FATAL] 2020-04-27 21:36:19.272 [main] TestBase - This is a fatal message.
+[INFO ] 2020-04-27 21:36:19.272 [main] TestBase - ****************************** ending test case *****************************************
+[INFO ] 2020-04-27 21:36:19.272 [main] TestBase - ****************************** LoginTest *****************************************
+[INFO ] 2020-04-27 21:37:04.757 [main] TestBase - ****************************** starting test case *****************************************
+[INFO ] 2020-04-27 21:37:04.759 [main] TestBase - ****************************** LoginTest *****************************************
+[TRACE] 2020-04-27 21:37:04.759 [main] TestBase - This is a trace message
+[INFO ] 2020-04-27 21:37:04.759 [main] TestBase - This is information message.
+[ERROR] 2020-04-27 21:37:04.759 [main] TestBase - This is an error message.
+[WARN ] 2020-04-27 21:37:04.760 [main] TestBase - This is a warning message.
+[FATAL] 2020-04-27 21:37:04.760 [main] TestBase - This is a fatal message.
+[INFO ] 2020-04-27 21:37:04.760 [main] TestBase - ****************************** ending test case *****************************************
+[INFO ] 2020-04-27 21:37:04.760 [main] TestBase - ****************************** LoginTest *****************************************
+[INFO ] 2020-04-27 21:38:44.985 [main] TestBase - ****************************** starting test case *****************************************
+[INFO ] 2020-04-27 21:38:44.986 [main] TestBase - ****************************** LoginTest *****************************************
+[TRACE] 2020-04-27 21:38:44.987 [main] TestBase - This is a trace message
+[INFO ] 2020-04-27 21:38:44.987 [main] TestBase - This is information message.
+[ERROR] 2020-04-27 21:38:44.987 [main] TestBase - This is an error message.
+[WARN ] 2020-04-27 21:38:44.987 [main] TestBase - This is a warning message.
+[FATAL] 2020-04-27 21:38:44.987 [main] TestBase - This is a fatal message.
+[INFO ] 2020-04-27 21:38:44.987 [main] TestBase - ****************************** ending test case *****************************************
+[INFO ] 2020-04-27 21:38:44.987 [main] TestBase - ****************************** LoginTest *****************************************
+[INFO ] 2020-04-27 21:40:32.640 [main] TestBase - ****************************** starting test case *****************************************
+[INFO ] 2020-04-27 21:40:32.642 [main] TestBase - ****************************** LoginTest *****************************************
+[TRACE] 2020-04-27 21:40:32.642 [main] TestBase - This is a trace message
+[INFO ] 2020-04-27 21:40:32.642 [main] TestBase - This is information message.
+[ERROR] 2020-04-27 21:40:32.643 [main] TestBase - This is an error message.
+[WARN ] 2020-04-27 21:40:32.643 [main] TestBase - This is a warning message.
+[FATAL] 2020-04-27 21:40:32.643 [main] TestBase - This is a fatal message.
+[INFO ] 2020-04-27 21:40:32.643 [main] TestBase - ****************************** ending test case *****************************************
+[INFO ] 2020-04-27 21:40:32.643 [main] TestBase - ****************************** LoginTest *****************************************
+[INFO ] 2020-04-27 22:44:15.798 [main] TestBase - ****************************** starting test case *****************************************
+[INFO ] 2020-04-27 22:44:15.800 [main] TestBase - ****************************** LoginTest *****************************************
+[TRACE] 2020-04-27 22:44:15.800 [main] TestBase - This is a trace message
+[INFO ] 2020-04-27 22:44:15.801 [main] TestBase - This is information message.
+[ERROR] 2020-04-27 22:44:15.801 [main] TestBase - This is an error message.
+[WARN ] 2020-04-27 22:44:15.801 [main] TestBase - This is a warning message.
+[FATAL] 2020-04-27 22:44:15.801 [main] TestBase - This is a fatal message.
+[INFO ] 2020-04-27 22:44:15.801 [main] TestBase - ****************************** ending test case *****************************************
+[INFO ] 2020-04-27 22:44:15.801 [main] TestBase - ****************************** LoginTest *****************************************
